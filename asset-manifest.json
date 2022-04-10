@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Jasper19901029/classProject1.git/static/css/main.0432be20.css",
-    "main.js": "/Jasper19901029/classProject1.git/static/js/main.70128312.js",
+    "main.js": "/Jasper19901029/classProject1.git/static/js/main.b77420bc.js",
     "index.html": "/Jasper19901029/classProject1.git/index.html",
     "main.0432be20.css.map": "/Jasper19901029/classProject1.git/static/css/main.0432be20.css.map",
-    "main.70128312.js.map": "/Jasper19901029/classProject1.git/static/js/main.70128312.js.map"
+    "main.b77420bc.js.map": "/Jasper19901029/classProject1.git/static/js/main.b77420bc.js.map"
   },
   "entrypoints": [
     "static/css/main.0432be20.css",
-    "static/js/main.70128312.js"
+    "static/js/main.b77420bc.js"
   ]
 }
