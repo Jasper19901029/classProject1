@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jasper19901029/classProject1.git/static/css/main.0432be20.css",
+    "main.js": "/Jasper19901029/classProject1.git/static/js/main.842fda1d.js",
+    "index.html": "/Jasper19901029/classProject1.git/index.html",
+    "main.0432be20.css.map": "/Jasper19901029/classProject1.git/static/css/main.0432be20.css.map",
+    "main.842fda1d.js.map": "/Jasper19901029/classProject1.git/static/js/main.842fda1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0432be20.css",
+    "static/js/main.842fda1d.js"
+  ]
+}
